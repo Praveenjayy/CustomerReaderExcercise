@@ -6,17 +6,17 @@ namespace CustomerReaderModal
 {
     public class Address
     {
-        public String streetAddress;
-        public String city;
-        public String state;
-        public String zipCode;
+        public String streetAddress { get; set; }
+        public String city { get; set; }
+        public String state { get; set; }
+        public String zipCode { get; set; }
     }
     public class Customer : Address
     {
-        public String firstName;
-        public String lastName;
-        public String email;
-        public String phone;
-        public String fullName;
+        public String firstName { get; set; }
+        public String lastName { get; set; }
+        public String email { get; set; }
+        public String phone { get; set; }
+        public String fullName { get; set; }
     }
 }

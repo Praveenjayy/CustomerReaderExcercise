@@ -1,0 +1,14 @@
+F:\Praveen files\Task_TVS\CustomerReaderDL\bin\Debug\netstandard2.0\CustomerReaderDL.deps.json
+F:\Praveen files\Task_TVS\CustomerReaderDL\bin\Debug\netstandard2.0\CustomerReaderDL.dll
+F:\Praveen files\Task_TVS\CustomerReaderDL\bin\Debug\netstandard2.0\CustomerReaderDL.pdb
+F:\Praveen files\Task_TVS\CustomerReaderDL\obj\Debug\netstandard2.0\CustomerReaderDL.csprojAssemblyReference.cache
+F:\Praveen files\Task_TVS\CustomerReaderDL\obj\Debug\netstandard2.0\CustomerReaderDL.csproj.CoreCompileInputs.cache
+F:\Praveen files\Task_TVS\CustomerReaderDL\obj\Debug\netstandard2.0\CustomerReaderDL.AssemblyInfoInputs.cache
+F:\Praveen files\Task_TVS\CustomerReaderDL\obj\Debug\netstandard2.0\CustomerReaderDL.AssemblyInfo.cs
+F:\Praveen files\Task_TVS\CustomerReaderDL\obj\Debug\netstandard2.0\CustomerReaderDL.dll
+F:\Praveen files\Task_TVS\CustomerReaderDL\obj\Debug\netstandard2.0\CustomerReaderDL.pdb
+F:\Praveen files\Task_TVS\CustomerReaderDL\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+F:\Praveen files\Task_TVS\CustomerReaderDL\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+F:\Praveen files\Task_TVS\CustomerReaderDL\obj\Debug\netstandard2.0\CustomerReaderDL.csproj.CopyComplete
+F:\Praveen files\Task_TVS\CustomerReaderDL\bin\Debug\netstandard2.0\CustomerReaderModal.dll
+F:\Praveen files\Task_TVS\CustomerReaderDL\bin\Debug\netstandard2.0\CustomerReaderModal.pdb

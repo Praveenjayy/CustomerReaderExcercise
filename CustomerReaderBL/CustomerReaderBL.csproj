@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerReaderDL\CustomerReaderDL.csproj" />
+    <ProjectReference Include="..\CustomerReaderModal\CustomerReaderModal.csproj" />
+  </ItemGroup>
+
+</Project>

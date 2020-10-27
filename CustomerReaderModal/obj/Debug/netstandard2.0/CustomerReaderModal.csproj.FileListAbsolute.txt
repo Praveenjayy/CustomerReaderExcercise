@@ -1,0 +1,9 @@
+F:\Praveen files\Task_TVS\CustomerReaderModal\bin\Debug\netstandard2.0\CustomerReaderModal.deps.json
+F:\Praveen files\Task_TVS\CustomerReaderModal\bin\Debug\netstandard2.0\CustomerReaderModal.dll
+F:\Praveen files\Task_TVS\CustomerReaderModal\bin\Debug\netstandard2.0\CustomerReaderModal.pdb
+F:\Praveen files\Task_TVS\CustomerReaderModal\obj\Debug\netstandard2.0\CustomerReaderModal.csproj.CoreCompileInputs.cache
+F:\Praveen files\Task_TVS\CustomerReaderModal\obj\Debug\netstandard2.0\CustomerReaderModal.AssemblyInfoInputs.cache
+F:\Praveen files\Task_TVS\CustomerReaderModal\obj\Debug\netstandard2.0\CustomerReaderModal.AssemblyInfo.cs
+F:\Praveen files\Task_TVS\CustomerReaderModal\obj\Debug\netstandard2.0\CustomerReaderModal.dll
+F:\Praveen files\Task_TVS\CustomerReaderModal\obj\Debug\netstandard2.0\CustomerReaderModal.pdb
+F:\Praveen files\Task_TVS\CustomerReaderModal\obj\Debug\netstandard2.0\CustomerReaderModal.csprojAssemblyReference.cache

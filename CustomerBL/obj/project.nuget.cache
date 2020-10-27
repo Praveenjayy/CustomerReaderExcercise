@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LQmIR4F1bbx9hzUYRYYeQYfDqZoGjb1/vTYMbuPGb9mAab4Kd4ohaSR6UeHiaJfHbP+V+rV+A8iYhSR1neA7IA==",
+  "success": true,
+  "projectFilePath": "F:\\Praveen files\\Task_TVS\\CustomerBL\\CustomerBL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

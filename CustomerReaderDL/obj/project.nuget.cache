@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vABf7ELpdU99qypPZEqgrkC55ONRxdNw7rAfLsPyM/WBKWNJqau1ICh6Nlg0sNd9gM7kV2rLzS2eFdm053Dupg==",
+  "success": true,
+  "projectFilePath": "F:\\Praveen files\\Task_TVS\\CustomerReaderDL\\CustomerReaderDL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

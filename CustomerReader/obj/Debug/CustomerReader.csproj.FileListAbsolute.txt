@@ -1,0 +1,25 @@
+C:\Git\CustomerReader\CustomerReader\bin\Debug\CustomerReader.exe.config
+C:\Git\CustomerReader\CustomerReader\bin\Debug\CustomerReader.exe
+C:\Git\CustomerReader\CustomerReader\bin\Debug\CustomerReader.pdb
+C:\Git\CustomerReader\CustomerReader\bin\Debug\Newtonsoft.Json.dll
+C:\Git\CustomerReader\CustomerReader\bin\Debug\Newtonsoft.Json.xml
+C:\Git\CustomerReader\CustomerReader\obj\Debug\CustomerReader.csprojAssemblyReference.cache
+C:\Git\CustomerReader\CustomerReader\obj\Debug\CustomerReader.csproj.CoreCompileInputs.cache
+C:\Git\CustomerReader\CustomerReader\obj\Debug\CustomerReader.csproj.CopyComplete
+C:\Git\CustomerReader\CustomerReader\obj\Debug\CustomerReader.exe
+C:\Git\CustomerReader\CustomerReader\obj\Debug\CustomerReader.pdb
+F:\Praveen files\Task_TVS\CustomerReader\bin\Debug\CustomerReader.exe.config
+F:\Praveen files\Task_TVS\CustomerReader\bin\Debug\CustomerReader.exe
+F:\Praveen files\Task_TVS\CustomerReader\bin\Debug\CustomerReader.pdb
+F:\Praveen files\Task_TVS\CustomerReader\bin\Debug\Newtonsoft.Json.xml
+F:\Praveen files\Task_TVS\CustomerReader\obj\Debug\CustomerReader.csprojAssemblyReference.cache
+F:\Praveen files\Task_TVS\CustomerReader\obj\Debug\CustomerReader.csproj.CoreCompileInputs.cache
+F:\Praveen files\Task_TVS\CustomerReader\obj\Debug\CustomerReader.csproj.CopyComplete
+F:\Praveen files\Task_TVS\CustomerReader\obj\Debug\CustomerReader.exe
+F:\Praveen files\Task_TVS\CustomerReader\obj\Debug\CustomerReader.pdb
+F:\Praveen files\Task_TVS\CustomerReader\bin\Debug\CustomerReaderBL.dll
+F:\Praveen files\Task_TVS\CustomerReader\bin\Debug\CustomerReaderModal.dll
+F:\Praveen files\Task_TVS\CustomerReader\bin\Debug\CustomerReaderDL.dll
+F:\Praveen files\Task_TVS\CustomerReader\bin\Debug\CustomerReaderBL.pdb
+F:\Praveen files\Task_TVS\CustomerReader\bin\Debug\CustomerReaderModal.pdb
+F:\Praveen files\Task_TVS\CustomerReader\bin\Debug\CustomerReaderDL.pdb

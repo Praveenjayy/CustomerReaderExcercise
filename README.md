@@ -30,4 +30,6 @@ Following are the changes done on the task
 
 10) Added Unit Testing project using NUnit framework available in .Net.
 
+11) Modified the Properties with Getter and Setters
+
 
